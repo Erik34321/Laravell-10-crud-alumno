@@ -19,14 +19,6 @@
         </div>
     @endif
 
-
-
-
-
-
-
-
-
     <table class="table table-bordered ">
         <tr class="table-dark">
             <th>No</th>
